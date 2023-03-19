@@ -1,0 +1,8 @@
+{
+    "name": "pwbabel",
+    "description": "Learning how to use babel",
+    "version": "0.0.1",
+    "devDependencies": {
+        "typescript": "^5.0.2"
+    }
+}
