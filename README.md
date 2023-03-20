@@ -15,4 +15,10 @@ This is basic and core configuration of the Babel and webpack with typescript
 
 <!--more-->
 
-![](Images/2023-03-19-16-08-36.png)
+I did it manually step by step with the book **Carl Rippon - Learn React with TypeScript A beginner's guide to reactive web development with React 18 and TypeScript**
+
+Commands 
+- npm run start
+- npm install --save-dev package
+
+![](Images/2023-03-20-06-48-37.png)
